@@ -1,9 +1,9 @@
-import logo from '../logo.svg';
+import logo from '../img/logo.svg';
 import React, {Component} from "react";
 
 class Header extends React.Component {
   render() {
-   const subject = "Cloud Course";
+   const subject = "My Laddies, Lasses and Lassoes";
     return (
       <div>
 	<header className="App-header">
